@@ -1,0 +1,18 @@
+{
+  "embed": {
+    "title": "__Why use Scripture of Jas with Necromancy__",
+    "description": "This is **only** the case for Necromancy, while this reasoning does apply to a lesser extent to other styles they will generally always benefit more from a different book, use !pocketslot for more info.",
+    "color": 39423,
+    "fields": [
+      {
+        "name": "__What Makes Scripture of Jas Strong__",
+        "value": "⬥ Jas will double dip on all damage boosts that are in effect against your target, i.e. vulnerability, x slayer perks/sigils etc. This means that all these boosts are calculated when storing damage, as well as when the final damage is applied to your target.\n⬥ Jas also has good synergy to proc off of using a [Blood Reaver](https://runescape.wiki/w/Blood_reaver_(familiar)) <:reaverpouch:839903693837959228>, as the typeless hitsplats each have a chance to proc the book.\n *Note: Without using this familiar Necromancy has a very low chance of receiving book procs due to its lack of frequent hit splats as conjures do not proc them.*"
+      },
+      {
+        "name": "__When to Use Scripture of Jas__",
+        "value": "⬥ At bosses where you can comfortably benefit from multiple sources of damage boosts, i.e. Rasial.\n⬥ As a cheap and competitive alternative to a higher tier book in combination with a [Blood Reaver](https://runescape.wiki/w/Blood_reaver_(familiar)) <:reaverpouch:839903693837959228>.\n"
+      }
+    ]
+  }
+}
+.embed:json
